@@ -15,4 +15,4 @@ for test in range(1, T+ 1):
     print(N)
     for i in range(10):
         print((seq[i] + " ") * clst[i], end=" ")
-    print()
+    print() 
