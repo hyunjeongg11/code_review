@@ -11,4 +11,4 @@ for test in range(1, T+1):
             stack.pop()
         else:
             stack.append(string[i])
-    print(f'#{test} {len(stack)}')
+    print(f'#{test} {len(stack)}') 

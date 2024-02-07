@@ -24,4 +24,3 @@ for test in range(1, T+1):
                 cnt = cnt + 1
     print(f'#{test} {cnt}')
 
-# 슬라이싱이나 리버스로 다시 풀기
